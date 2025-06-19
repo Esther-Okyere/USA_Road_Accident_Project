@@ -1,4 +1,4 @@
-# Power BI Project
-## USA_Road_Accident_Project
-- Power BI
+# Excel_Project
+## Track Loan Management
 - Excel
+- Power BI
