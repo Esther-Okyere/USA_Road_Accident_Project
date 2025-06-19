@@ -1,4 +1,4 @@
-# USA_Road_Accident_Project
-## Analysis on Road Accident dataset from 2016 to 2020.
+# Power BI Project
+## USA_Road_Accident_Project
 - Power BI
 - Excel
